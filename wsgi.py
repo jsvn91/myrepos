@@ -7,3 +7,4 @@ os.environ.setdefault("DJANGO_SETTINGS_MODULE", "nirla.settings") #nirla is the 
 # added comment
 # test added
 application = Cling(get_wsgi_application())
+application = Cling(get_wsgi_application())
